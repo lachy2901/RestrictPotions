@@ -1,0 +1,14 @@
+name: RestrictPotions
+version: 1.0
+main: com.precipicegames.lachy2901.restrictpotions.RestrictPotions
+permissions:
+    potion.safe:
+        description: Lets you use positive buff potions.
+    potion.harm:
+        description: Lets you use negative buff potions.
+    potion.ssafe:
+        description: Lets you use positive buff splash potions.
+    potion.sharm:
+        description: Lets you use negative buff splash potions.
+    potion.exp:
+        description: Lets you use exp bottles.
